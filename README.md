@@ -1,4 +1,6 @@
-![logoSmarttBot](https://user-images.githubusercontent.com/76957963/167670905-17547d0c-c046-415d-bbd6-adb4c84afbb8.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76957963/167670905-17547d0c-c046-415d-bbd6-adb4c84afbb8.png">
+</p>
 
 <h1 align="center"> Desafio Back-End Junior SmarttBot - Gerador de Trade </h1>
 <h2> Descrição do projeto </h2>
